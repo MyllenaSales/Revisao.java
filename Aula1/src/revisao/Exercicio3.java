@@ -9,7 +9,7 @@ public class Exercicio3 {
 	
 	public void sequencia() {
 		
-		while(rep<=48) {
+		while(rep<=5) {
 			
 			numero = numero1+numero2;
 			System.out.print(numero1+", "+numero2+", "+numero+", ");
